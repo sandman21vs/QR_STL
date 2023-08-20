@@ -1,0 +1,17 @@
+    Abra o Terminal.
+
+    Navegue até o diretório onde o seu arquivo qr_stl.py está localizado. Por exemplo:
+
+bash
+
+cd ~/Área\ de\ Trabalho/QR_STL-main
+
+    Execute o script Python usando o comando:
+
+bash
+
+python3 qr_stl.py
+
+Isso irá executar o script e você poderá interagir com ele diretamente no terminal, fornecendo as entradas necessárias para a geração do QR code e do arquivo STL.
+
+Se você desejar uma solução que não envolva abrir o terminal manualmente, ainda é possível criar um atalho no ambiente de desktop para executar o script diretamente clicando no ícone. Se desejar instruções sobre como fazer isso, por favor, me informe.
