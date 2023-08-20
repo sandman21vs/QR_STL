@@ -47,6 +47,7 @@ recomendacao pessoal use 40 (40% = 80x80mm)
 40
 `````
 Digite a altura do QR code em milímetros e pressione Enter.
+Enquanto maior esse numero mais alto vai ficar o qr code 
 ````
 1
 `````
