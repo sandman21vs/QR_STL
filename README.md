@@ -21,12 +21,10 @@ Abra o Terminal ou Prompt de Comando.
 Navegue até a pasta do projeto onde está o arquivo .py:
 
 ```sh
-Copy code
 cd CAMINHO-PARA-A-PASTA
 ```
 Execute o arquivo .py usando o seguinte comando:
 ```sh
-Copy code
 python qr_stl.py
 ```
 Certifique-se de que o Python está instalado no seu sistema.
