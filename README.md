@@ -12,21 +12,25 @@ Este é um projeto incrível que faz XYZ. Aqui estão as instruções para insta
 4. Execute o seguinte comando para instalar as dependências:
 
 ```sh
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 Linux
 Abra o Terminal.
 Clone o repositório para o seu computador usando o seguinte comando:
-sh
+```sh
 Copy code
-git clone https://github.com/SEU-USUÁRIO/NOME-DO-REPOSITÓRIO.git
+git clone https://github.com/sandman21vs/QR_STL
+```
 Navegue até a pasta do projeto:
-sh
+```sh
 Copy code
-cd NOME-DO-REPOSITÓRIO
+cd QR_STL
+```
 Execute o seguinte comando para instalar as dependências:
-sh
+````sh
 Copy code
 pip3 install -r requirements.txt
+````
 Execução
 Agora, para executar o projeto, siga os passos abaixo:
 
@@ -34,31 +38,17 @@ Abra o Terminal ou Prompt de Comando.
 
 Navegue até a pasta do projeto onde está o arquivo .py:
 
-sh
+```sh
 Copy code
 cd CAMINHO-PARA-A-PASTA
+```
 Execute o arquivo .py usando o seguinte comando:
-sh
+```sh
 Copy code
-python NOME-DO-ARQUIVO.py
+python qr_stl.py
+```
 Certifique-se de que o Python está instalado no seu sistema.
 
 Agora você pode aproveitar o seu incrível projeto!
 
-Contribuição
-Se você quiser contribuir com este projeto, siga os passos:
 
-Faça um fork deste repositório.
-Crie um branch para suas alterações:
-sh
-Copy code
-git checkout -b nome-da-sua-branch
-Faça suas modificações e commit:
-sh
-Copy code
-git commit -m "Descrição das suas alterações"
-Faça o push das suas alterações para o seu repositório fork:
-sh
-Copy code
-git push origin nome-da-sua-branch
-Abra um pull request neste repositório.
