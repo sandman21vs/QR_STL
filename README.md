@@ -22,6 +22,9 @@ Windows
 Experimente Agora
 Crie modelos 3D únicos e compartilhe informações de maneira criativa com o QR_STL. Baixe o arquivo qr_stl.exe e comece a transformar suas ideias em arte tridimensional.
 
+
+PYTHON WINDOWS OU LUNUX 
+
 1. Baixe o código-fonte do projeto clicando em "Clone or download" e selecionando "Download ZIP".
 2. Extraia o arquivo ZIP para uma pasta no seu computador.
 3. Abra o Prompt de Comando e navegue até a pasta onde você extraiu o arquivo ZIP usando o comando `cd`.
