@@ -12,7 +12,7 @@ Este é um projeto incrível que faz XYZ. Aqui estão as instruções para insta
 4. Execute o seguinte comando para instalar as dependências:
 
 ```sh
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 Linux
 Abra o Terminal.
 Clone o repositório para o seu computador usando o seguinte comando:
